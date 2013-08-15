@@ -17,17 +17,14 @@ The Publisher                                                                   
 The Author                                                                 Date
 
 #TERMS OF AGREEMENT
-###GRANT OF RIGHTS
-#TERMS OF AGREEMENT
-###GRANT OF RIGHTS
-The author grants first exclusive worldwide rights in the English language in all readable print formats - including electronic rights - as part of the Anthology for one year post first publication of the Anthology.  Exceptions to exclusivity will be made on a per-case basis for single-author collections including the Work, or if the Work is selected for a "best of the year" anthology, provided the Author gives the Publisher prior written notice.  
+##GRANT OF RIGHTS
+The Author grants first exclusive worldwide rights in the English language in all readable print formats - including electronic rights - as part of the Anthology for one year post first publication of the Anthology.  Exceptions to exclusivity will be made on a per-case basis for single-author collections including the Work, or if the Work is selected for a "best of the year" anthology, provided the Author gives the Publisher prior written notice.  
 
 The Author grants to the Publisher the worldwide non-exclusive rights in the English language in all readable print formats - including electronic rights - as part of the Anthology for five years post first publication of the Anthology.  
 
 The Author agrees that at such time as the Work is included in any book, whether or not it be entirely composed of the Author's own work, *Alliteration Ink* will be given credit as a publisher of the Work and the Work will be cited with its full title(s) as it appears in **ANTHOLOGY**.   
 
 ##RIGHTS RETAINED
-
 The Publisher will make no major alterations to the Work's text or title without the Author's written approval. The Publisher reserves the right to make minor copy-editing changes.   
 
 All rights to the Work not granted to the Publisher in this Agreement are reserved by the Author. In exercising such rights, the Author shall reserve for the Publisher's benefit the rights granted to the Publisher in this Agreement.  
@@ -52,7 +49,9 @@ There are **NUMBER** total shares, based on a total word count of **NUMBER**. Th
 
 ##AUTHOR COPIES
 
-Authors will be able to order copies of The Anthology *or any other work from Alliteration Ink* at cost to the publisher.  These copies may be sold by the authors;  these do not count toward royalty calculations.  Authors will have a free electronic copy in ePub, Kindle, and PDF formats made available to them.  
+Authors will be able to order copies of The Anthology *or any other work from Alliteration Ink* at cost to the publisher.  These copies may be sold by the authors;  these do not count toward royalty calculations.  
+
+Authors will have a free electronic copy in ePub, Kindle, and PDF formats made available to them.  These may not be redistributed.    
 
 *optional* Each author will have one print author copy sent to their address of choice for free.  
 
@@ -88,7 +87,9 @@ In the event that the Publisher shall be adjudicated bankrupt, a receiver or a t
 
 The Publisher and Author shall use their best efforts to promote and advertise the Work in order to sell the Work to as many readers as possible and shall inform each other on matters relating to promotion and advertising.   
 
-The Author agrees to be available for publicity and promotion as reasonably requested by the Publisher and subject to the Author's employment and personal obligations.  The Author is hereby permitted to use reasonable judgement in using the Work for marketing purposes, including but not limited to, posting a sample chapter on the Author's website using excerpts of no more than ten percent (10%) of the manuscript, and the likeness of the book.  
+The Author agrees to be available for publicity and promotion as reasonably requested by the Publisher and subject to the Author's employment and personal obligations.
+
+The Author is hereby permitted to use reasonable judgement in using the Work for marketing purposes, including but not limited to, posting a sample chapter on the Author's website using excerpts of no more than ten percent (10%) of the manuscript, and the likeness of the book.  
 
 Electronic versions of the Work may be made available at the discretion of the Publisher or Author for reviewers and other marketing and promotional purposes.            
 
@@ -98,6 +99,4 @@ The Promotion and marketing efforts of the Author and shall be coordinated with 
 
 Legal interpretation of this agreement shall be governed by the laws of the State of Ohio, United States.  
 
-
-
-
+This Letter of Agreement constitutes the only and entire legally binding agreement between the Author and the Publisher with respect to the Work herein identified.   

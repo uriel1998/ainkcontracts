@@ -18,11 +18,12 @@ The Author                                                                      
 
 #TERMS OF AGREEMENT
 ##GRANT OF RIGHTS
-The author grants first exclusive Worldwide Digital rights in the English language in all readable print formats - including electronic rights - for one year post first publication of the work.  
 
-The Author grants to the Publisher the non-exclusive right to print, publish and sell the Work in print formats in for the full term of copyright available to the Work in the Territory, save if superceded by another clause in this contract.  
+The author grants first exclusive worldwide rights in the English language in all readable print formats - including electronic rights - for an initial period of five years post first publication of the Anthology.  Exceptions to exclusivity will be made on a per-case basis for portions of the work already published elsewhere, or if a portion of the work is selected for a "best of the year" anthology, provided the Author gives the Publisher prior written notice.  Save for the exceptions noted above, the Author shall not grant print rights to the Work elsewhere while this contract is in force.  
 
-The Author agrees that at such time as the Work is included in any book, whether or not it be entirely composed of the Author's own work, *Alliteration Ink* will be given credit as the first publisher and the Work will be cited with its full title(s) as it appears in the Work.   
+After the initial five year term, this grant of rights shall automatically renew in one year terms until cancelled by either the Author or Publisher. 
+
+The Author agrees that at such time as the Work is included in any book, whether or not it be entirely composed of the Author's own work, *Alliteration Ink* will be given credit as a publisher of the Work and the Work will be cited with its full title(s) as published by *Alliteration Ink*.
 
 ##RIGHTS RETAINED
 
@@ -32,11 +33,13 @@ All rights to the Work not granted to the Publisher in this Agreement are reserv
 
 ##PAYMENTS; ROYALTIES
 
-Payment will be a pro-rata share of **NUMBER**% of net proceeds. Net proceeds are defined as those profits remaining after payment other professionals employed to bring the book to publication and distribution. Proceeds may come from sales (wholesale, retail, consignment, discount, etc.) or other forms of income.  
+Payment will be a share of **NUMBER**% of net proceeds. Net proceeds are defined as those profits remaining after payment other professionals employed to bring the book to publication and distribution. Proceeds may come from sales (wholesale, retail, consignment, discount, etc.) or other forms of income.  
 
 ##AUTHOR COPIES
 
-Authors will be able to order copies of The Work *or any other work from Alliteration Ink* at cost to the publisher.  These copies may be sold by the authors;  these do not count toward royalty calculations.
+The Author will be able to order print copies of The Work *or any other work from Alliteration Ink* at cost to the publisher.  These copies may be sold by the authors;  these do not count toward royalty calculations.
+
+The Author will have a free electronic copy in ePub, Kindle, and PDF formats made available to them.  These may not be redistributed.  
 
 ##PUBLISH-BY OR REVERT  
 
@@ -58,12 +61,14 @@ Upon written request from the Author, but no more than once a year, the Publishe
 
 ##TERM; TERMINATION OF AGREEMENT; REVERSION
 
-The term of this Agreement shall continue for three years after the Effective Date ("Initial Term"), and thereafter shall automatically renew for consecutive one year terms (each a "Renewal Term" and together with the Initial Term, the "Term"), unless terminated by Publisher on written notice to Author at least 60 days prior to the end of the Initial Term.   
+The term of this Agreement shall continue for five years after the Effective Date ("Initial Term"), and thereafter shall automatically renew for consecutive one year terms (each a "Renewal Term" and together with the Initial Term, the "Term"), unless terminated by either party on written notice to the other at least 60 days prior to the end of the Initial or Renewal Term.
 
 Notwithstanding the foregoing, if and when in the judgment of the Publisher the demand for the Work is no longer sufficient to warrant its continued publication, the Publisher shall have the right to discontinue publication and declare the Work out of print (as set forth in the next sentence), in which event the Author shall be so advised.   
 
 If the Work is not for sale in at least one edition (including any revised edition or reprint edition) published by the Publisher or under license from the Publisher or in electronic form and, within nine (9) months after written demand by the Author, the Publisher or its licensee fails to offer it again for sale, then this Agreement shall terminate and all rights granted to the Publisher in it shall revert to the Author (except for any material prepared by or obtained at the expense of the Publisher). The termination of the Agreement shall be subject to any license, contract, or option granted to third parties by the Publisher before the termination and the Publisher's right to its share of the proceeds from such grants after the termination.   
+
 In the event that the Publisher shall be adjudicated bankrupt, a receiver or a trustee shall be appointed for all or substantially all of the Publisher's property, and the order appointing the receiver or trustee shall not have been vacated within sixty (60) days from its entry, or if the Publisher shall seek to take advantage of any so-called insolvency law, all rights hereby granted to the Publisher shall revert to the Author, and this Agreement shall terminate.   
+
 ##PROMOTION
 
 The Publisher and Author shall use their best efforts to promote and advertise the Work in order to sell the Work to as many readers as possible and shall inform each other on matters relating to promotion and advertising.   

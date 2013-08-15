@@ -18,9 +18,11 @@ The Anthologist                                                                 
 
 #TERMS OF AGREEMENT
 ##GRANT OF RIGHTS
-The Anthologist grants nonexclusive worldwide print and digital rights in the English language in all readable print formats - including electronic rights for one year post first publication of the work.  
+The Anthologist grants nonexclusive worldwide print and digital rights in the English language in all readable print formats - including electronic rights for one year post first publication of the work.  Exceptions to exclusivity will be made on a per-case basis for single-author collections including the individual author's portion of the Work, or if a portion of the Work is selected for a "best of the year" anthology, provided the Anthologist gives the Publisher prior written notice.  
 
 The Anthologist grants to the Publisher the non-exclusive right to print, publish and sell the Work in print and digital formats in English and to exercise and grant the non-exclusive rights to the Work to third parties for the full term of copyright available to the Work in the Territory as part of the anthology.  
+
+The Anthologist shall ensure that each Author agrees that at such time as their portion of the Work is included in any book, whether or not it be entirely composed of the Author's own work, *Alliteration Ink* will be given credit as a publisher of the Work and the Work will be cited with its full title(s) as it appears in **ANTHOLOGY**.   
 
 ##RIGHTS RETAINED
 
@@ -28,7 +30,7 @@ The Publisher will make no major alterations to the Work's text or title without
 
 All rights to the Work not granted to the Publisher in this Agreement are reserved by The Anthologist. In exercising such rights, The Anthologist shall reserve for the Publisher's benefit the rights granted to the Publisher in this Agreement.   
 
-The Publisher and the Anthologist understand that the copyrights of individual works in the Anthology belong to their creators, but the copyright for the Anthology as a collection belongs to the Anthologist. 
+The Publisher and the Anthologist understand that the copyrights of individual works in the Anthology belong to their creators, but the copyright for the Anthology as a collection belongs to the Anthologist.  
 
 ###OPTIONAL RIGHTS HANDLING
 * The Anthologist will contract each Author of the Works of this anthology to obtain rights to his or her work.   
@@ -46,7 +48,11 @@ The Anthologist agrees to distribute the above payment as follows:
 
 ##AUTHOR COPIES
 
-Authors will be able to order copies of The Work *or any other work from Alliteration Ink* at cost to the publisher.  These copies may be sold by the authors;  these do not count toward royalty calculations.
+Authors will be able to order print copies of The Work *or any other work from Alliteration Ink* at cost to the publisher.  These copies may be sold by the authors;  these do not count toward royalty calculations.
+
+Authors will have a free electronic copy in ePub, Kindle, and PDF formats made available to them.  These may not be redistributed.  
+
+*optional* Each author will have one print author copy sent to their address of choice for free.  
 
 ##PUBLISH-BY OR REVERT
 
@@ -68,7 +74,7 @@ Upon written request from the Anthologist, but no more than once a year, the Pub
 
 ##TERM; TERMINATION OF AGREEMENT; REVERSION
 
-The term of this Agreement shall continue for three years after the Effective Date ("Initial Term"), and thereafter shall automatically renew for consecutive one year terms (each a "Renewal Term" and together with the Initial Term, the "Term"), unless terminated by Publisher on written notice to Author at least 60 days prior to the end of the Initial Term.   
+The term of this Agreement shall continue for five years after the Effective Date ("Initial Term") unless terminated by Publisher on written notice to Author at least 60 days prior to the end of the Initial Term.   
 
 Notwithstanding the foregoing, if and when in the judgment of the Publisher the demand for the Work is no longer sufficient to warrant its continued publication, the Publisher shall have the right to discontinue publication and declare the Work out of print (as set forth in the next sentence), in which event The Anthologist shall be so advised.   
 
@@ -93,5 +99,3 @@ The Promotion and marketing efforts of the Anthologist and shall be coordinated 
 Legal interpretation of this agreement shall be governed by the laws of the State of Ohio, United States.  
 
 This Letter of Agreement constitutes the only and entire legally binding agreement between the Anthologist and the Publisher with respect to the Work herein identified.   
-
-
