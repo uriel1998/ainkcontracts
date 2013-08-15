@@ -11,13 +11,16 @@ Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publi
 ##SIGNATURES
 Signed:  
  
-The Publisher                                                                   Date  
+###The Publisher  
+Date  
 
 
-The Author                                                                      Date
-
+###The Author  
+Date  
+\pagebreak
 #TERMS OF AGREEMENT
 ##GRANT OF RIGHTS
+
 The Author grants first exclusive worldwide rights in the English language in all readable print formats - including electronic rights - for an initial period of five years post first publication of the Anthology.  Exceptions to exclusivity will be made on a per-case basis for portions of the work already published elsewhere, or if a portion of the work is selected for a "best of the year" anthology, provided the Author gives the Publisher prior written notice.  Save for the exceptions noted above, the Author shall not grant print rights to the Work elsewhere while this contract is in force.  
 
 After the initial five year term, this grant of rights shall automatically renew in one year terms until cancelled by either the Author or Publisher. 
