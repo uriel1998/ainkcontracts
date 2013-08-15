@@ -8,3 +8,5 @@ This is a complement to the explanation as set forth in http://ideatrash.net/201
 Please note that these templates are NOT finished contracts, and currently contain contradictory information and clauses to cover a majority of instances.  Not all contracts from Alliteration Ink will contain all of these clauses.  These contracts do not supercede or contradict prior contracts.  Et cetera.
 
 Feedback on these contracts is welcomed.  The goal of sharing these contracts is to improve the knowledge of authors, myself, and hold publishers (including myself) to a higher standard.  These contracts are offered under a MIT license.
+
+These are stored on GitHub publicly so that alterations can be visible and seen by all parties, along with WHY.
