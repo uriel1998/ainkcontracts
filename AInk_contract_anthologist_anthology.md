@@ -20,12 +20,11 @@ The Anthologist                                                                 
 ##GRANT OF RIGHTS
 The Anthologist grants nonexclusive worldwide print and digital rights in the English language in all readable print formats - including electronic rights for one year post first publication of the work.  Exceptions to exclusivity will be made on a per-case basis for single-author collections including the individual author's portion of the Work, or if a portion of the Work is selected for a "best of the year" anthology, provided the Anthologist gives the Publisher prior written notice.  
 
-The Anthologist grants to the Publisher the non-exclusive right to print, publish and sell the Work in print and digital formats in English and to exercise and grant the non-exclusive rights to the Work to third parties for the full term of copyright available to the Work in the Territory as part of the anthology.  
+The Anthologist grants to the Publisher the worldwide non-exclusive rights in the English language in all readable print formats - including electronic rights - as part of the Anthology for five years post first publication of the Anthology.  
 
 The Anthologist shall ensure that each Author agrees that at such time as their portion of the Work is included in any book, whether or not it be entirely composed of the Author's own work, *Alliteration Ink* will be given credit as a publisher of the Work and the Work will be cited with its full title(s) as it appears in **ANTHOLOGY**.   
 
 ##RIGHTS RETAINED
-
 The Publisher will make no major alterations to the Work's text or title without The Anthologist's written approval. The Publisher reserves the right to make minor copy-editing changes.   
 
 All rights to the Work not granted to the Publisher in this Agreement are reserved by The Anthologist. In exercising such rights, The Anthologist shall reserve for the Publisher's benefit the rights granted to the Publisher in this Agreement.   
@@ -78,7 +77,7 @@ The term of this Agreement shall continue for five years after the Effective Dat
 
 Notwithstanding the foregoing, if and when in the judgment of the Publisher the demand for the Work is no longer sufficient to warrant its continued publication, the Publisher shall have the right to discontinue publication and declare the Work out of print (as set forth in the next sentence), in which event The Anthologist shall be so advised.   
 
-If the Work is not for sale in at least one edition (including any revised edition or reprint edition) published by the Publisher or under license from the Publisher or in electronic form and, within nine (9) months after written demand by The Anthologist, the Publisher or its licensee fails to offer it again for sale, then this Agreement shall terminate and all rights granted to the Publisher in it shall revert to The Anthologist (except for any material prepared by or obtained at the expense of the Publisher). The termination of the Agreement shall be subject to any license, contract, or option granted to third parties by the Publisher before the termination and the Publisher's right to its share of the proceeds from such grants after the termination.   
+If the Work is not for sale in at least one edition (including any revised edition or reprint edition) published by the Publisher or under license from the Publisher or in electronic form and, within nine (9) months after written demand by The Anthologist, the Publisher or its licensee fails to offer it again for sale, then this Agreement shall terminate and all rights granted to the Publisher in it shall revert to The Anthologist (except for any material prepared by or obtained at the expense of the Publisher).
 
 In the event that the Publisher shall be adjudicated bankrupt, a receiver or a trustee shall be appointed for all or substantially all of the Publisher's property, and the order appointing the receiver or trustee shall not have been vacated within sixty (60) days from its entry, or if the Publisher shall seek to take advantage of any so-called insolvency law, all rights hereby granted to the Publisher shall revert to The Anthologist, and this Agreement shall terminate.   
 
@@ -86,7 +85,7 @@ In the event that the Publisher shall be adjudicated bankrupt, a receiver or a t
 
 The Publisher and Anthologist shall use their best efforts to promote and advertise the Work in order to sell the Work to as many readers as possible and shall inform each other on matters relating to promotion and advertising.   
 
-The Anthologist agrees to be available for publicity and promotion as reasonably requested by the Publisher and subject to the Anthologistâ s employment and personal obligations.   
+The Anthologist agrees to be available for publicity and promotion as reasonably requested by the Publisher and subject to the Anthologist's employment and personal obligations.   
 
 The Anthologist is hereby permitted to use reasonable judgement in using the Work for marketing purposes, including but not limited to, posting one (1) sample chapter on the Anthologist's website, using excerpts of no more than ten percent (10%) of the manuscript, and the likeness of the book.   
 

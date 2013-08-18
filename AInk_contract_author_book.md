@@ -18,15 +18,13 @@ The Author                                                                      
 
 #TERMS OF AGREEMENT
 ##GRANT OF RIGHTS
-
-The author grants first exclusive worldwide rights in the English language in all readable print formats - including electronic rights - for an initial period of five years post first publication of the Anthology.  Exceptions to exclusivity will be made on a per-case basis for portions of the work already published elsewhere, or if a portion of the work is selected for a "best of the year" anthology, provided the Author gives the Publisher prior written notice.  Save for the exceptions noted above, the Author shall not grant print rights to the Work elsewhere while this contract is in force.  
+The Author grants first exclusive worldwide rights in the English language in all readable print formats - including electronic rights - for an initial period of five years post first publication of the Anthology.  Exceptions to exclusivity will be made on a per-case basis for portions of the work already published elsewhere, or if a portion of the work is selected for a "best of the year" anthology, provided the Author gives the Publisher prior written notice.  Save for the exceptions noted above, the Author shall not grant print rights to the Work elsewhere while this contract is in force.  
 
 After the initial five year term, this grant of rights shall automatically renew in one year terms until cancelled by either the Author or Publisher. 
 
 The Author agrees that at such time as the Work is included in any book, whether or not it be entirely composed of the Author's own work, *Alliteration Ink* will be given credit as a publisher of the Work and the Work will be cited with its full title(s) as published by *Alliteration Ink*.
 
 ##RIGHTS RETAINED
-
 The Publisher will make no major alterations to the Work's text or title without the Author's written approval. The Publisher reserves the right to make minor copy-editing changes.   
 
 All rights to the Work not granted to the Publisher in this Agreement are reserved by the Author. In exercising such rights, the Author shall reserve for the Publisher's benefit the rights granted to the Publisher in this Agreement.   
@@ -40,6 +38,8 @@ Payment will be a share of **NUMBER**% of net proceeds. Net proceeds are defined
 The Author will be able to order print copies of The Work *or any other work from Alliteration Ink* at cost to the publisher.  These copies may be sold by the authors;  these do not count toward royalty calculations.
 
 The Author will have a free electronic copy in ePub, Kindle, and PDF formats made available to them.  These may not be redistributed.  
+
+*optional* Each author will have one print author copy sent to their address of choice for free. 
 
 ##PUBLISH-BY OR REVERT  
 
@@ -65,7 +65,7 @@ The term of this Agreement shall continue for five years after the Effective Dat
 
 Notwithstanding the foregoing, if and when in the judgment of the Publisher the demand for the Work is no longer sufficient to warrant its continued publication, the Publisher shall have the right to discontinue publication and declare the Work out of print (as set forth in the next sentence), in which event the Author shall be so advised.   
 
-If the Work is not for sale in at least one edition (including any revised edition or reprint edition) published by the Publisher or under license from the Publisher or in electronic form and, within nine (9) months after written demand by the Author, the Publisher or its licensee fails to offer it again for sale, then this Agreement shall terminate and all rights granted to the Publisher in it shall revert to the Author (except for any material prepared by or obtained at the expense of the Publisher). The termination of the Agreement shall be subject to any license, contract, or option granted to third parties by the Publisher before the termination and the Publisher's right to its share of the proceeds from such grants after the termination.   
+If the Work is not for sale in at least one edition (including any revised edition or reprint edition) published by the Publisher or under license from the Publisher or in electronic form and, within nine (9) months after written demand by the Author, the Publisher or its licensee fails to offer it again for sale, then this Agreement shall terminate and all rights granted to the Publisher in it shall revert to the Author (except for any material prepared by or obtained at the expense of the Publisher).
 
 In the event that the Publisher shall be adjudicated bankrupt, a receiver or a trustee shall be appointed for all or substantially all of the Publisher's property, and the order appointing the receiver or trustee shall not have been vacated within sixty (60) days from its entry, or if the Publisher shall seek to take advantage of any so-called insolvency law, all rights hereby granted to the Publisher shall revert to the Author, and this Agreement shall terminate.   
 
@@ -73,7 +73,9 @@ In the event that the Publisher shall be adjudicated bankrupt, a receiver or a t
 
 The Publisher and Author shall use their best efforts to promote and advertise the Work in order to sell the Work to as many readers as possible and shall inform each other on matters relating to promotion and advertising.   
 
-The Author agrees to be available for publicity and promotion as reasonably requested by the Publisher and subject to the Author's employment and personal obligations.  The Author is hereby permitted to use reasonable judgement in using the Work for marketing purposes, including but not limited to, posting a sample chapter on the Author's website using excerpts of no more than ten percent (10%) of the manuscript, and the likeness of the book.  
+The Author agrees to be available for publicity and promotion as reasonably requested by the Publisher and subject to the Author's employment and personal obligations.  
+
+The Author is hereby permitted to use reasonable judgement in using the Work for marketing purposes, including but not limited to, posting a sample chapter on the Author's website using excerpts of no more than ten percent (10%) of the manuscript, and the likeness of the book.  
 
 Electronic versions of the Work may be made available at the discretion of the Publisher or Author for reviewers and other marketing and promotional purposes.            
 
@@ -82,3 +84,5 @@ The Promotion and marketing efforts of the Author and shall be coordinated with 
 ##LEGALITIES
 
 Legal interpretation of this agreement shall be governed by the laws of the State of Ohio, United States.  
+
+This Letter of Agreement constitutes the only and entire legally binding agreement between the Author and the Publisher with respect to the Work herein identified.   
