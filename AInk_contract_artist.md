@@ -4,9 +4,12 @@
 
 #PARTIES
 This AGREEMENT is made as of the Effective Date above by and between:   
-Legal Name:                                                   ("The Artist")   
-Address:   
-SSN/EIN:  
+
+###Legal Name:                                                   ("The Artist")   
+
+###Address:   
+
+###SSN/EIN:  
 regarding "**TITLE**" ("The Artwork")  
 
 and   

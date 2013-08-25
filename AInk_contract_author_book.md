@@ -7,9 +7,12 @@
 ##PARTIES AND DEFINITIONS
 
 This AGREEMENT is made as of the Effective Date above by and between:   
-Legal Name:                                 ("the Author")   
-Address:   
-SSN/EIN:  
+
+###Legal Name:   					                              ("the Author")   
+
+###Address:   
+
+###SSN/EIN:  
 and   
 Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publisher") with reference to the Work(s) tentatively entitled **TITLE** ("the Work").  
 
