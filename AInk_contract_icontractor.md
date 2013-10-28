@@ -1,11 +1,21 @@
 #Letter of Agreement - Independent Contractor
+
+![](aink_logo.png "Alliteration Ink")  \  
+
 #SIGNATURE PAGE
+
 ##PARTIES AND DEFINITIONS
+
 #PARTIES
+
 This AGREEMENT is made as of the Effective Date above by and between:   
+
 Legal Name:                                                    ("the Contractor")  
+
 Address:   
+
 SSN/EIN:  
+
 regarding the terms and conditions of the engagement between the Contractor and  
 
 Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publisher").  
@@ -13,14 +23,14 @@ Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publi
 ##SIGNATURES
 Signed:  
  
-###The Publisher  
-Date  
+##The Publisher  
+##Date  
 
 
 ###The Contractor  
-Date  
-\pagebreak
+###Date  
 
+\pagebreak
 
 #Engagement
 
@@ -106,11 +116,11 @@ The validity, interpretation, construction and performance of this Agreement sha
 
 Contractor shall be paid in accordance with the completion of the tasks and milestones set forth below.  
 
-1.  Research into publishing markets
-2.  Research into eligible awards and submissions of material to such markets.
-3.  Research into review markets and submissions of material to such markets.
+1.  Item One
+2.  Item Two
+3.  Item Three
 
-The first completion date shall be 31 October 2013. The Services shall be repeated every two weeks until 31 December 2013 for $**MONEY** per two weeks.
+The first completion date shall be **DATE**. The Services shall be repeated every two weeks until **DATE** for $**MONEY** per two weeks.
 
 Contractor shall not be authorized to incur on behalf of the Publisher any expenses and will be responsible for all expenses incurred while performing the Services.  
  	 
