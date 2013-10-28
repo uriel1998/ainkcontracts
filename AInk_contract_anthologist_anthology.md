@@ -1,16 +1,34 @@
 #Letter of Agreement - Anthology
+<<<<<<< HEAD
 #SIGNATURE PAGE
 ##PARTIES AND DEFINITIONS
 This AGREEMENT is made as of the Effective Date above by and between:   
 Legal Name:                                                   ("The Anthologist")   
 Address:   
 SSN/EIN:  
+=======
+
+![](aink_logo.png "Alliteration Ink") \  
+
+#SIGNATURE PAGE  
+
+##PARTIES AND DEFINITIONS
+
+This AGREEMENT is made as of the Effective Date above by and between:   
+
+###Legal Name:                                                   ("The Anthologist")   
+
+###Address:   
+
+###SSN/EIN:  
+>>>>>>> 99632f6128c578738934d40cbe2c115aa13b6435
 and   
 Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publisher") with reference to the Work(s) tentatively entitled **TITLE** ("the Work").  
 
 ##SIGNATURES
 Signed:  
  
+<<<<<<< HEAD
 ###The Publisher  
 Date  
 
@@ -25,6 +43,22 @@ Date
 The Anthologist grants nonexclusive worldwide print and digital rights in the English language in all readable print formats - including electronic rights for one year post first publication of the work.  Exceptions to exclusivity will be made on a per-case basis for single-author collections including the individual author's portion of the Work, or if a portion of the Work is selected for a "best of the year" anthology, provided the Anthologist gives the Publisher prior written notice.  
 
 The Anthologist grants to the Publisher grants to the Publisher the worldwide non-exclusive rights in the English language in all readable print formats - including electronic rights - as part of the Anthology for five years post first publication of the Anthology.  
+=======
+##The Publisher  
+##Date  
+
+
+##The Anthologist  
+##Date  
+
+\pagebreak
+
+#TERMS OF AGREEMENT    
+##GRANT OF RIGHTS  
+The Anthologist grants nonexclusive worldwide print and digital rights in the English language in all readable print formats - including electronic rights for one year post first publication of the work.  Exceptions to exclusivity will be made on a per-case basis for single-author collections including the individual author's portion of the Work, or if a portion of the Work is selected for a "best of the year" anthology, provided the Anthologist gives the Publisher prior written notice.  
+
+The Anthologist grants to the Publisher the worldwide non-exclusive rights in the English language in all readable print formats - including electronic rights - as part of the Anthology for five years post first publication of the Anthology.  
+>>>>>>> 99632f6128c578738934d40cbe2c115aa13b6435
 
 The Anthologist shall ensure that each Author agrees that at such time as their portion of the Work is included in any book, whether or not it be entirely composed of the Author's own work, *Alliteration Ink* will be given credit as a publisher of the Work and the Work will be cited with its full title(s) as it appears in **ANTHOLOGY**.   
 

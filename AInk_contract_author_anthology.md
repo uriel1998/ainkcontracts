@@ -1,16 +1,34 @@
 #Letter of Agreement - Story
+<<<<<<< HEAD
 #SIGNATURE PAGE
 ##PARTIES AND DEFINITIONS
 This AGREEMENT is made as of the Effective Date above by and between:   
 Legal Name:                                 ("the Author")   
 Address:   
 SSN/EIN:  
+=======
+
+![](aink_logo.png "Alliteration Ink")  \  
+
+#SIGNATURE PAGE
+
+##PARTIES AND DEFINITIONS
+
+This AGREEMENT is made as of the Effective Date above by and between:   
+
+###Legal Name:       			                          ("the Author")   
+
+###Address:   
+
+###SSN/EIN:  
+>>>>>>> 99632f6128c578738934d40cbe2c115aa13b6435
 and   
 Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publisher") with reference to the Work(s) tentatively entitled **TITLE** ("the Work") to appear in the anthology **ANTHOLOGY** ("the Anthology") with a word count of **WORDS**.   This agreement for the Anthology supercedes and replaces any prior agreement for the Anthology.
 
 ##SIGNATURES
 Signed:  
  
+<<<<<<< HEAD
 ###The Publisher  
 Date  
 
@@ -22,6 +40,19 @@ Date
 #TERMS OF AGREEMENT
 ##GRANT OF RIGHTS
 
+=======
+##The Publisher  
+##Date  
+
+
+##The Author  
+##Date  
+
+\pagebreak
+
+#TERMS OF AGREEMENT  
+##GRANT OF RIGHTS  
+>>>>>>> 99632f6128c578738934d40cbe2c115aa13b6435
 The Author grants first exclusive worldwide rights in the English language in all readable print formats - including electronic rights - as part of the Anthology for one year post first publication of the Anthology.  Exceptions to exclusivity will be made on a per-case basis for single-author collections including the Work, or if the Work is selected for a "best of the year" anthology, provided the Author gives the Publisher prior written notice.  
 
 The Author grants to the Publisher the worldwide non-exclusive rights in the English language in all readable print formats - including electronic rights - as part of the Anthology for five years post first publication of the Anthology.  
