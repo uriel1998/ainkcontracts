@@ -11,7 +11,7 @@ regarding "**TITLE**" ("The Artwork")
 
 and   
 
-Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publisher") with reference to the Work(s) tentatively entitled "**TITLE**" ("the Work").  
+Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publisher").  
 
 #GRANT OF RIGHTS
 
