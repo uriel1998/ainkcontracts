@@ -3,7 +3,7 @@
 ![](aink_logo.png "Alliteration Ink")  \  
 
 #PARTIES
-This AGREEMENT is made as of the Effective Date above by and between:   
+This AGREEMENT is made as of the Effective Date below by and between:   
 Legal Name:                                                   ("The Artist")   
 Address:   
 SSN/EIN:  
