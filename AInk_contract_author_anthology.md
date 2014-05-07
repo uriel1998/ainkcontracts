@@ -27,7 +27,7 @@ Signed:
 #TERMS OF AGREEMENT
 ##GRANT OF RIGHTS
 
-The Author grants first exclusive worldwide rights in the English language in all readable print formats - including electronic rights - as part of the Anthology for one year post first publication of the Anthology.  Exceptions to exclusivity will be made on a per-case basis for single-author collections including the Work, or if the Work is selected for a "best of the year" anthology, provided the Author gives the Publisher prior written notice.  
+The Author grants first exclusive worldwide rights in the English language in all readable print formats - including electronic rights - as part of the Anthology for one year post first publication of the Anthology.  Exceptions to exclusivity will be made on a per-case basis for single-author collections including the Work, or if the Work is selected for a "best of the year" anthology, or for a podcast market managed by Escape Artists Inc, provided the Author gives the Publisher prior written notice.  
 
 The Author grants to the Publisher the worldwide non-exclusive rights in the English language in all readable print formats - including electronic rights - as part of the Anthology for five years post first publication of the Anthology.  
 
