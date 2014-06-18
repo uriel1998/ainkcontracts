@@ -18,18 +18,19 @@ Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publi
 
 ##SIGNATURES
  
-##The Publisher  
-##Date  
+###The Publisher  
 
+#  
+#
+###The Author
 
-##The Author  
 ##Date  
 
 \pagebreak
 
 #TERMS OF AGREEMENT
 ##GRANT OF RIGHTS
-The Author grants first exclusive worldwide rights in the English language in all readable print formats - including electronic rights - for an initial period of five years post first publication of the Anthology.  Exceptions to exclusivity will be made on a per-case basis for portions of the work already published elsewhere, or if a portion of the work is selected for a "best of the year" anthology, provided the Author gives the Publisher prior written notice.  Save for the exceptions noted above, the Author shall not grant print rights to the Work elsewhere while this contract is in force.  
+The Author grants first exclusive worldwide rights in the English language in all readable print formats - including electronic rights - for an initial period of five years post first publication of the Work.  Exceptions to exclusivity will be made on a per-case basis for portions of the Work already published elsewhere, or if a portion of the Work is selected for a "best of the year" anthology, provided the Author gives the Publisher prior written notice.  Save for the exceptions noted above, the Author shall not grant print rights to the Work elsewhere while this contract is in force.  
 
 After the initial five year term, this grant of rights shall automatically renew in one year terms until cancelled by either the Author or Publisher. 
 
@@ -42,7 +43,7 @@ All rights to the Work not granted to the Publisher in this Agreement are reserv
 
 ##PAYMENTS; ROYALTIES
 
-Payment will be a share of **NUMBER**% of net proceeds. Net proceeds are defined as those profits remaining after payment other professionals employed to bring the book to publication and distribution. Proceeds may come from sales (wholesale, retail, consignment, discount, etc.) or other forms of income.  
+Payment will be a share of **60**% of net proceeds. Net proceeds are defined as those profits remaining after payment other professionals employed to bring the book to publication and distribution. Proceeds may come from sales (wholesale, retail, consignment, discount, etc.) or other forms of income.  
 
 ##AUTHOR COPIES
 
@@ -50,7 +51,7 @@ The Author will be able to order print copies of The Work *or any other work fro
 
 The Author will have a free electronic copy in ePub, Kindle, and PDF formats made available to them.  These may not be redistributed.  
 
-*optional* Each author will have one print author copy sent to their address of choice for free. 
+The author will have one print author copy sent to their address of choice for free. 
 
 ##PUBLISH-BY OR REVERT  
 
