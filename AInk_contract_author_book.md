@@ -41,8 +41,12 @@ Signed:
 The Author grants first exclusive worldwide rights in the English language in all readable print formats - including electronic rights - for an initial period of five years post first publication of the Work.  Exceptions to exclusivity will be made on a per-case basis for portions of the Work already published elsewhere, or if a portion of the Work is selected for a "best of the year" anthology, provided the Author gives the Publisher prior written notice.  Save for the exceptions noted above, the Author shall not grant print rights to the Work elsewhere while this contract is in force.  
 =======
 
+<<<<<<< HEAD
 The Author grants first exclusive worldwide rights in the English language in all readable print formats - including electronic rights - for an initial period of five years post first publication of the Anthology.  Exceptions to exclusivity will be made on a per-case basis for portions of the work already published elsewhere, or if a portion of the work is selected for a "best of the year" anthology, provided the Author gives the Publisher prior written notice.  Save for the exceptions noted above, the Author shall not grant print rights to the Work elsewhere while this contract is in force.  
 >>>>>>> cb0835f59b59cda66f046de8371db4795b8e0760
+=======
+The Author grants first exclusive worldwide rights in the English language in all readable print formats - including electronic rights - for an initial period of five years post first publication of the Work.  Exceptions to exclusivity will be made on a per-case basis for portions of the work already published elsewhere, or if a portion of the work is selected for a "best of the year" anthology, provided the Author gives the Publisher prior written notice.  Save for the exceptions noted above, the Author shall not grant print rights to the Work elsewhere while this contract is in force.  
+>>>>>>> 111c7624ebc0d299f27a08a6f6751f188f755065
 
 After the initial five year term, this grant of rights shall automatically renew in one year terms until cancelled by either the Author or Publisher. 
 
@@ -63,7 +67,11 @@ The Author will be able to order print copies of The Work *or any other work fro
 
 The Author will have a free electronic copy in ePub, Kindle, and PDF formats made available to them.  These may not be redistributed.  
 
+<<<<<<< HEAD
 The author will have one print author copy sent to their address of choice for free. 
+=======
+*optional* The author will have one print author copy sent to their address of choice for free. 
+>>>>>>> 111c7624ebc0d299f27a08a6f6751f188f755065
 
 ##PUBLISH-BY OR REVERT  
 

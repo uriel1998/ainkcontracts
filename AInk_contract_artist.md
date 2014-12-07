@@ -41,7 +41,7 @@ All rights to the Work not granted to the Publisher in this Agreement are reserv
 
 #PAYMENTS; ROYALTIES
 
-In compensation for this grant of rights, the Publisher hereby agrees to pay the Artist a one-time licensing fee of US$**NUMBER**. This fee shall be paid at **TIME**.  
+In compensation for this grant of rights, the Publisher hereby agrees to pay the Artist a one-time licensing fee of US$**NUMBER**. This fee shall be paid at **TIME**.  Should the work be determined unsatisfactory for any reason, half of the licensing fee will be paid as a kill fee.
 
 #PUBLISH-BY OR REVERT
 
@@ -54,11 +54,11 @@ Legal interpretation of this agreement shall be governed by the laws of the Stat
 #SIGNATURES
 Signed:  
  
-###The Publisher                                                                   
-###Date  
+###The Publisher  
 
+#  
+#
+###The Artist
 
-###The Artist                                                                      
-###Date
-
+Date
 

@@ -22,6 +22,7 @@ Signed:
 ###The Publisher  
 =======
 ###The Publisher  
+<<<<<<< HEAD
 ###Date  
 >>>>>>> cb0835f59b59cda66f046de8371db4795b8e0760
 
@@ -36,6 +37,15 @@ Signed:
 ###The Author  
 ###Date  
 >>>>>>> cb0835f59b59cda66f046de8371db4795b8e0760
+=======
+
+#  
+#
+###The Author
+
+Date: 
+
+>>>>>>> 111c7624ebc0d299f27a08a6f6751f188f755065
 \pagebreak
 
 #TERMS OF AGREEMENT
