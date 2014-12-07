@@ -13,7 +13,6 @@ and
 
 Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publisher").  
 
-<<<<<<< HEAD
 ##SIGNATURES
 Signed:  
  
@@ -34,7 +33,6 @@ Signed:
 The Artist grants nonexclusive worldwide print and digital rights to the Artwork for the purposes of digital and print covers for the Work and for promotion of the Work (e.g. flyers, bookmarks, favicons). "Promotional purposes" should not be able to serve as a substitute for a print of the Artwork and should clearly be in service to promoting the Work.   
 
 #RIGHTS RETAINED
->>>>>>> cb0835f59b59cda66f046de8371db4795b8e0760
 
 The Publisher will make no major alterations to the Artwork save for cropping, small aspect ratio changes, and alterations needed to increase legibility of text required to promote the Work.  
 All rights to the Work not granted to the Publisher in this Agreement are reserved by The Artist. In exercising such rights, The Artist shall reserve for the Publisher's benefit the rights granted to the Publisher in this Agreement.   

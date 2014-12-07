@@ -16,26 +16,17 @@ Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publi
 ##SIGNATURES
 Signed:  
  
-<<<<<<< HEAD
-##SIGNATURES
- 
+
 ###The Publisher  
-=======
-###The Publisher  
-###Date  
->>>>>>> cb0835f59b59cda66f046de8371db4795b8e0760
+
+##Date
 
 #  
 #
 ###The Author
 
-<<<<<<< HEAD
 ##Date  
 
-=======
-###The Author  
-###Date  
->>>>>>> cb0835f59b59cda66f046de8371db4795b8e0760
 \pagebreak
 
 #TERMS OF AGREEMENT
