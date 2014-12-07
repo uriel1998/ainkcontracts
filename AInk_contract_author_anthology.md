@@ -45,6 +45,8 @@ The Author grants first exclusive worldwide rights in the English language in al
 
 The Author grants to the Publisher the worldwide non-exclusive rights in the English language in all readable print formats - including electronic rights - as part of the Anthology for five years post first publication of the Anthology.  
 
+After the initial five year term, this grant of rights shall automatically renew in one year terms until cancelled by either the Author or Publisher. 
+
 The Author agrees that at such time as the Work is included in any book, whether or not it be entirely composed of the Author's own work, *Alliteration Ink* will be given credit as a publisher of the Work and the Work will be cited with its full title(s) as it appears in **ANTHOLOGY**.   
 
 ##RIGHTS RETAINED
@@ -98,7 +100,7 @@ Upon written request from the Author, but no more than once a year, the Publishe
 
 ##TERM; TERMINATION OF AGREEMENT; REVERSION
 
-The term of this Agreement shall continue for five years after the Effective Date ("Initial Term") unless terminated by Publisher on written notice to Author at least 60 days prior to the end of the Initial Term.   
+The term of this Agreement shall continue for five years after the Effective Date ("Initial Term").  After the initial five year term, this grant of rights shall automatically renew in one year terms until cancelled by either the Author or Publisher at least 60 days prior to the end of the Initial Term or any Renewal Term.
 
 Notwithstanding the foregoing, if and when in the judgment of the Publisher the demand for the Work is no longer sufficient to warrant its continued publication, the Publisher shall have the right to discontinue publication and declare the Work out of print (as set forth in the next sentence), in which event the Author shall be so advised.   
 
