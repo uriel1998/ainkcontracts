@@ -18,8 +18,6 @@ Signed:
  
  
 ###The Publisher  
-=======
-###The Publisher  
 ###Date  
 
 #  
