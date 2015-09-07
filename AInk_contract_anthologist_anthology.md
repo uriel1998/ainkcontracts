@@ -98,6 +98,8 @@ In the event that the Publisher shall be adjudicated bankrupt, a receiver or a t
 
 ##PROMOTION
 
+Arising under and terminating with the grant of rights to the Work in this Agreement, the Anthologist grants Publisher the right to use the Anthologist’s name, image, likeness, and biographical material for all advertising, promotion and other exploitation of the Work. Upon request, the Anthologist shall provide the Publisher with a photograph of the Anthologist and appropriate biographical material for such use. The Publisher shall use only the Anthologist’s name, image, likeness and biographical material provided and approved by the Anthologist.
+
 The Publisher and Anthologist shall use their best efforts to promote and advertise the Work in order to sell the Work to as many readers as possible and shall inform each other on matters relating to promotion and advertising.   
 
 The Anthologist agrees to be available for publicity and promotion as reasonably requested by the Publisher and subject to the Anthologist's employment and personal obligations.   

@@ -105,6 +105,8 @@ In the event that the Publisher shall be adjudicated bankrupt, a receiver or a t
 
 ##PROMOTION
 
+Arising under and terminating with the grant of rights to the Work in this Agreement, the Author grants Publisher the right to use the Author’s name, image, likeness, and biographical material for all advertising, promotion and other exploitation of the Work. Upon request, the Author shall provide the Publisher with a photograph of the Author and appropriate biographical material for such use. The Publisher shall use only the Author’s name, image, likeness and biographical material provided and approved by the Author.
+
 The Publisher and Author shall use their best efforts to promote and advertise the Work in order to sell the Work to as many readers as possible and shall inform each other on matters relating to promotion and advertising.   
 
 The Author agrees to be available for publicity and promotion as reasonably requested by the Publisher and subject to the Author's employment and personal obligations.
