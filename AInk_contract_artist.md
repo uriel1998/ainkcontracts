@@ -37,6 +37,8 @@ The Artist grants nonexclusive worldwide print and digital rights to the Artwork
 The Publisher will make no major alterations to the Artwork save for cropping, small aspect ratio changes, and alterations needed to increase legibility of text required to promote the Work.  
 All rights to the Work not expressly granted to the Publisher in this Agreement are reserved by The Artist. In exercising such rights, The Artist shall reserve for the Publisher's benefit the rights granted to the Publisher in this Agreement.   
 
+
+
 #PAYMENTS; ROYALTIES
 
 In compensation for this grant of rights, the Publisher hereby agrees to pay the Artist a one-time licensing fee of US$**NUMBER**. This fee shall be paid at **TIME**.  Should the work be determined unsatisfactory for any reason, half of the licensing fee will be paid as a kill fee.

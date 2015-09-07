@@ -40,6 +40,8 @@ The Publisher will make no major alterations to the Work's text or title without
 
 All rights to the Work not expressly granted to the Publisher in this Agreement are reserved by the Author. In exercising such rights, the Author shall reserve for the Publisher's benefit the rights granted to the Publisher in this Agreement.  
 
+The Author does not transfer any rights in the Work to the Publisher except as specifically set forth in this Agreement. This Agreement is not a transfer of the copyright to the Work.  This Agreement does not permit the Publisher to publish the Work in any revisions of the Magazine in any medium unless explicitly granted by This Agreement.
+
 ##PAYMENTS; ROYALTIES
 
 ###Flat Fee
