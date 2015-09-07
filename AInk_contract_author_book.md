@@ -11,7 +11,8 @@ Legal Name:                                 ("the Author")
 Address:   
 SSN/EIN:  
 and   
-Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publisher") with reference to the Work(s) tentatively entitled **TITLE** ("the Work").  
+Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publisher") solely with reference to the Work(s) tentatively entitled **TITLE** ("the Work"). 
+
 
 ##SIGNATURES
 Signed:  
@@ -37,7 +38,7 @@ The Author agrees that at such time as the Work is included in any book, whether
 ##RIGHTS RETAINED
 The Publisher will make no major alterations to the Work's text or title without the Author's written approval. The Publisher reserves the right to make minor copy-editing changes.   
 
-All rights to the Work not granted to the Publisher in this Agreement are reserved by the Author. In exercising such rights, the Author shall reserve for the Publisher's benefit the rights granted to the Publisher in this Agreement.   
+All rights to the Work not expressly granted to the Publisher in this Agreement are reserved by the Author. In exercising such rights, the Author shall reserve for the Publisher's benefit the rights granted to the Publisher in this Agreement.   
 
 ##PAYMENTS; ROYALTIES
 

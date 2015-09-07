@@ -11,27 +11,29 @@ Legal Name:                                 ("the Author")
 Address:   
 SSN/EIN:  
 and   
-Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publisher") solely with reference to the Work(s) tentatively entitled **TITLE** ("the Work") to appear in the anthology **ANTHOLOGY** ("the Anthology") with a word count of **WORDS**.   This agreement for the Anthology supercedes and replaces any prior agreement for the Anthology.
+Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publisher") solely with reference to the Work(s) tentatively entitled **TITLE** ("the Work") to appear in the periodical/website **PERIODICAL** ("the Publication") with a word count of **WORDS**.   
 
-##SIGNATURES
+
+#SIGNATURES
 Signed:  
  
 ###The Publisher  
-###Date  
 
+#  
+#
+###The Author
 
-###The Author  
-###Date  
+Date
 \pagebreak
 
 #TERMS OF AGREEMENT
 ##GRANT OF RIGHTS
 
-The Author grants first exclusive worldwide rights in the English language in all readable print formats - including electronic rights - as part of the Anthology for one year post first publication of the Anthology.  Exceptions to exclusivity will be made on a per-case basis for single-author collections including the Work, or if the Work is selected for a "best of the year" anthology, or for a podcast market managed by Escape Artists Inc, provided the Author gives the Publisher prior written notice.  
+The Author grants first exclusive worldwide rights in the English language in all readable print formats - including electronic rights - as part of the Publication for one year post first publication of the Publication.  Exceptions to exclusivity will be made on a per-case basis for single-author collections including the Work, or if the Work is selected for a "best of the year" Publication, or for a podcast market managed by Escape Artists Inc, provided the Author gives the Publisher prior written notice.  
 
-The Author grants to the Publisher the worldwide non-exclusive rights in the English language in all readable print formats - including electronic rights - as part of the Anthology for five years post first publication of the Anthology.  
+The Author grants to the Publisher the worldwide non-exclusive rights in the English language in all readable print formats - including electronic rights - as part of the Publication for five years post first publication of the Publication.  After the initial five year term, this grant of rights shall automatically renew in one year terms until cancelled by either the Author or Publisher. 
 
-The Author agrees that at such time as the Work is included in any book, whether or not it be entirely composed of the Author's own work, *Alliteration Ink* will be given credit as a publisher of the Work and the Work will be cited with its full title(s) as it appears in **ANTHOLOGY**.   
+The Author agrees that at such time as the Work is included in any book, whether or not it be entirely composed of the Author's own work, *Alliteration Ink* will be given credit as a publisher of the Work and the Work will be cited with its full title(s) as it appears in **Publication**.   
 
 ##RIGHTS RETAINED
 The Publisher will make no major alterations to the Work's text or title without the Author's written approval. The Publisher reserves the right to make minor copy-editing changes.   
@@ -54,11 +56,9 @@ Payment will be a flat one-time payment of $0.0**NUMBER** per word for previousl
 
 Payment will be a pro-rata share of **NUMBER**% of net proceeds based upon word count. Net proceeds are defined as those profits remaining after payment of editors, publishers, bookkeepers, artists, eBook converters, and other professionals employed to bring the book to publication. Proceeds may come from sales (wholesale, retail, consignment, discount, etc.) or other forms of income.  
 
-There are **NUMBER** total shares, based on a total word count of **NUMBER**. The author's shares, based on a word count of **NUMBER** for the Work, are **NUMBER**, or **NUMBER**% of the net proceeds.  
-
 ##AUTHOR COPIES
 
-Authors will be able to order copies of The Anthology *or any other work from Alliteration Ink* at cost to the publisher.  These copies may be sold by the authors;  these do not count toward royalty calculations.  
+Authors will be able to order copies of The Publication *or any other work from Alliteration Ink* at cost to the publisher.  These copies may be sold by the authors;  these do not count toward royalty calculations.  
 
 Authors will have a free electronic copy in ePub, Kindle, and PDF formats made available to them.  These may not be redistributed.    
 

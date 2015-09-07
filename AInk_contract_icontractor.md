@@ -20,15 +20,17 @@ regarding the terms and conditions of the engagement between the Contractor and
 
 Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publisher").  
 
-##SIGNATURES
+#SIGNATURES
 Signed:  
  
-##The Publisher  
-##Date  
+###The Publisher  
 
+#  
+#
+###The Contractor
 
-###The Contractor  
-###Date  
+Date
+
 
 \pagebreak
 
@@ -126,13 +128,13 @@ Contractor shall not be authorized to incur on behalf of the Publisher any expen
  	 
  
 In Witness hereof, the Parties have executed this Statement of Work as of the date set forth above.
-##SIGNATURES
+#SIGNATURES
 Signed:  
  
 ###The Publisher  
-Date  
 
+#  
+#
+###The Contractor
 
-###The Contractor  
-Date  
-
+Date

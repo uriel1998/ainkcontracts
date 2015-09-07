@@ -11,7 +11,7 @@ Legal Name:                                                   ("The Anthologist"
 Address:   
 SSN/EIN:  
 and   
-Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publisher") with reference to the Work(s) tentatively entitled **TITLE** ("the Work").  
+Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publisher") solely with reference to the Work(s) tentatively entitled **TITLE** ("the Work").  
 
 ##SIGNATURES
 Signed:  
@@ -38,7 +38,7 @@ The Anthologist shall ensure that each Author agrees that at such time as their 
 ##RIGHTS RETAINED
 The Publisher will make no major alterations to the Work's text or title without The Anthologist's written approval. The Publisher reserves the right to make minor copy-editing changes.   
 
-All rights to the Work not granted to the Publisher in this Agreement are reserved by The Anthologist. In exercising such rights, The Anthologist shall reserve for the Publisher's benefit the rights granted to the Publisher in this Agreement.   
+All rights to the Work not expressly granted to the Publisher in this Agreement are reserved by The Anthologist. In exercising such rights, The Anthologist shall reserve for the Publisher's benefit the rights granted to the Publisher in this Agreement.   
 
 The Publisher and the Anthologist understand that the copyrights of individual works in the Anthology belong to their creators, but the copyright for the Anthology as a collection belongs to the Anthologist.  
 
@@ -87,6 +87,8 @@ Upon written request from the Anthologist, but no more than once a year, the Pub
 The term of this Agreement shall continue for five years after the Effective Date ("Initial Term") unless terminated by Publisher on written notice to Author at least 60 days prior to the end of the Initial Term.   
 
 Notwithstanding the foregoing, if and when in the judgment of the Publisher the demand for the Work is no longer sufficient to warrant its continued publication, the Publisher shall have the right to discontinue publication and declare the Work out of print (as set forth in the next sentence), in which event The Anthologist shall be so advised.   
+
+If the rights to a specific form of the Work (e.g. print, electronic, audio, film) agreed upon above are not exercised for a period of six (6) months, the rights to that specific form of the Work shall automatically revert to the Anthologist without further action needed by either party.
 
 If the Work is not for sale in at least one edition (including any revised edition or reprint edition) published by the Publisher or under license from the Publisher or in electronic form and, within nine (9) months after written demand by The Anthologist, the Publisher or its licensee fails to offer it again for sale, then this Agreement shall terminate and all rights granted to the Publisher in it shall revert to The Anthologist (except for any material prepared by or obtained at the expense of the Publisher).
 

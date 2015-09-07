@@ -7,7 +7,7 @@ This AGREEMENT is made as of the Effective Date below by and between:
 Legal Name:                                                   ("The Artist")   
 Address:   
 SSN/EIN:  
-regarding "**TITLE**" ("The Artwork")  
+solely regarding "**TITLE**" ("The Artwork")  
 
 and   
 
@@ -20,7 +20,7 @@ The Artist grants nonexclusive worldwide print and digital rights to the Artwork
 #RIGHTS RETAINED
 
 The Publisher will make no major alterations to the Artwork save for cropping, small aspect ratio changes, and alterations needed to increase legibility of text required to promote the Work.  
-All rights to the Work not granted to the Publisher in this Agreement are reserved by The Artist. In exercising such rights, The Artist shall reserve for the Publisher's benefit the rights granted to the Publisher in this Agreement.   
+All rights to the Work not expressly granted to the Publisher in this Agreement are reserved by The Artist. In exercising such rights, The Artist shall reserve for the Publisher's benefit the rights granted to the Publisher in this Agreement.   
 
 #PAYMENTS; ROYALTIES
 
