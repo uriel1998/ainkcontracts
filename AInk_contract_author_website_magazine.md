@@ -29,11 +29,15 @@ Date
 #TERMS OF AGREEMENT
 ##GRANT OF RIGHTS
 
-The Author grants first exclusive worldwide rights in the English language in all readable print formats - including electronic rights - as part of the Publication for one year post first publication of the Publication.  Exceptions to exclusivity will be made on a per-case basis for single-author collections including the Work, or if the Work is selected for a "best of the year" Publication, or for a podcast market managed by Escape Artists Inc, provided the Author gives the Publisher prior written notice.  
+The Author grants first serial exclusive worldwide rights in the English language in all readable print formats - including electronic rights - for inclusion in the Publication for one year post first publication of the Publication.  Exceptions to exclusivity will be made on a per-case basis for single-author collections including the Work, or if the Work is selected for a "best of the year" Publication, or for a podcast market managed by Escape Artists Inc, provided the Author gives the Publisher prior written notice.  
 
 The Author grants to the Publisher the worldwide non-exclusive rights in the English language in all readable print formats - including electronic rights - as part of the Publication for five years post first publication of the Publication.  After the initial five year term, this grant of rights shall automatically renew in one year terms until cancelled by either the Author or Publisher. 
 
 The Author agrees that at such time as the Work is included in any book, whether or not it be entirely composed of the Author's own work, *Alliteration Ink* will be given credit as a publisher of the Work and the Work will be cited with its full title(s) as it appears in **Publication**.   
+
+##DIGITAL PUBLICATION
+
+Unless the Author specifies otherwise, Publisher will take care to ensure to the best of its ability that the Work is not archived by the Internet Archive or similar archiving web site and is not displayed in its entirety by any other web site, including Google, Amazon.com, or the like.
 
 ##RIGHTS RETAINED
 The Publisher will make no major alterations to the Work's text or title without the Author's written approval. The Publisher reserves the right to make minor copy-editing changes.   
