@@ -2,7 +2,6 @@
 
 ![](aink_logo.png "Alliteration Ink")  \  
 
-#SIGNATURE PAGE
 
 ##PARTIES AND DEFINITIONS
 

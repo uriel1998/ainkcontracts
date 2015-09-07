@@ -2,8 +2,6 @@
 
 ![](aink_logo.png "Alliteration Ink")  \  
 
-#SIGNATURE PAGE
-
 ##PARTIES AND DEFINITIONS
 
 This AGREEMENT is made as of the Effective Date above by and between:   
