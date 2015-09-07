@@ -35,6 +35,12 @@ The Author grants to the Publisher the worldwide non-exclusive rights in the Eng
 
 The Author agrees that at such time as the Work is included in any book, whether or not it be entirely composed of the Author's own work, *Alliteration Ink* will be given credit as a publisher of the Work and the Work will be cited with its full title(s) as it appears in **Publication**.   
 
+The Publisher agrees to list a proper copyright notice for the Work in the name of the Author at the end of the Web-published story and, if published in print or eBook format, on an appropriate copyright page.
+
+The Author will be credited on the table of contents page and at the beginning of the Work as **author’s byline**
+
+The Publisher shall not make the Work available to any distributor, catalogue, service, or computer program which alters the text of the work or the display of the work, beyond typographic or formatting changes that do not affect the meaning of the work, or facilitate such changes -- including but not limited to removing or changing profanity -- without written permission of the Author.  Should the Work be so listed without the permission of the Author, the Publisher shall ensure its removal.
+
 ##DIGITAL PUBLICATION
 
 Unless the Author specifies otherwise, Publisher will take care to ensure to the best of its ability that the Work is not archived by the Internet Archive or similar archiving web site and is not displayed in its entirety by any other web site, including Google, Amazon.com, or the like.

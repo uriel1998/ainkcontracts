@@ -38,6 +38,12 @@ After the initial five year term, this grant of rights shall automatically renew
 
 The Author agrees that at such time as the Work is included in any book, whether or not it be entirely composed of the Author's own work, *Alliteration Ink* will be given credit as a publisher of the Work and the Work will be cited with its full title(s) as published by *Alliteration Ink*.
 
+The Publisher agrees to list a proper copyright notice for the Work in the name of the Author on an appropriate copyright page.
+
+The Author will be credited on the table of contents page and at the beginning of the Work as **author’s byline**
+
+The Publisher shall not make the Work available to any distributor, catalogue, service, or computer program which alters the text of the work or the display of the work, beyond typographic or formatting changes that do not affect the meaning of the work, or facilitate such changes -- including but not limited to removing or changing profanity -- without written permission of the Author.  Should the Work be so listed without the permission of the Author, the Publisher shall ensure its removal.
+
 ##RIGHTS RETAINED
 The Publisher will make no major alterations to the Work's text or title without the Author's written approval. The Publisher reserves the right to make minor copy-editing changes.   
 

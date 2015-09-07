@@ -37,7 +37,7 @@ The Artist grants nonexclusive worldwide print and digital rights to the Artwork
 The Publisher will make no major alterations to the Artwork save for cropping, small aspect ratio changes, and alterations needed to increase legibility of text required to promote the Work.  
 All rights to the Work not expressly granted to the Publisher in this Agreement are reserved by The Artist. In exercising such rights, The Artist shall reserve for the Publisher's benefit the rights granted to the Publisher in this Agreement.   
 
-
+The Artist will be credited on the table of contents page and at the beginning of the Work as **author’s byline**
 
 #PAYMENTS; ROYALTIES
 
