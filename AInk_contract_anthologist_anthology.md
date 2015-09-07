@@ -13,21 +13,6 @@ SSN/EIN:
 and   
 Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publisher") solely with reference to the Work(s) tentatively entitled **TITLE** ("the Work").  
 
-##SIGNATURES
-Signed:  
- 
- 
-###The Publisher  
-###Date  
-
-#  
-#
-###The Anthologist
-
-##Date  
-
-\pagebreak
-
 #TERMS OF AGREEMENT
 ##GRANT OF RIGHTS
 
@@ -138,3 +123,16 @@ If any term or condition of this Agreement is found by a court of competent juri
 
 The parties acknowledge that each party has read and understood this contract before execution.
 
+#SIGNATURES
+
+In witness whereof the parties have executed this contract in duplication originals on this
+
+Signed:  
+ 
+###The Publisher  
+
+#  
+#
+###The Author
+
+Date
