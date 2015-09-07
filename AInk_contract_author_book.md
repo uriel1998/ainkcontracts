@@ -18,11 +18,14 @@ Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publi
 Signed:  
  
 ###The Publisher  
-###Date  
 
+##Date  
 
-###The Author   
-###Date  
+#  
+#
+###The Author
+
+##Date  
 
 \pagebreak
 
@@ -42,7 +45,7 @@ All rights to the Work not expressly granted to the Publisher in this Agreement 
 
 ##PAYMENTS; ROYALTIES
 
-Payment will be a share of **NUMBER**% of net proceeds. Net proceeds are defined as those profits remaining after payment other professionals employed to bring the book to publication and distribution. Proceeds may come from sales (wholesale, retail, consignment, discount, etc.) or other forms of income.  
+Payment will be a share of **60**% of net proceeds. Net proceeds are defined as those profits remaining after payment other professionals employed to bring the book to publication and distribution. Proceeds may come from sales (wholesale, retail, consignment, discount, etc.) or other forms of income.  
 
 ##AUTHOR COPIES
 
@@ -50,7 +53,7 @@ The Author will be able to order print copies of The Work *or any other work fro
 
 The Author will have a free electronic copy in ePub, Kindle, and PDF formats made available to them.  These may not be redistributed.  
 
-*optional* The author will have one print author copy sent to their address of choice for free. 
+The author will have one print author copy sent to their address of choice for free. 
 
 ##PUBLISH-BY OR REVERT  
 

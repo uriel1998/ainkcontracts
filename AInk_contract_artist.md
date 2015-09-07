@@ -13,6 +13,21 @@ and
 
 Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publisher").  
 
+##SIGNATURES
+Signed:  
+ 
+##SIGNATURES
+ 
+###The Publisher  
+
+#  
+#
+###The Artist
+
+##Date  
+
+\pagebreak
+=======
 #GRANT OF RIGHTS
 
 The Artist grants nonexclusive worldwide print and digital rights to the Artwork for the purposes of digital and print covers for the Work and for promotion of the Work (e.g. flyers, bookmarks, favicons). "Promotional purposes" should not be able to serve as a substitute for a print of the Artwork and should clearly be in service to promoting the Work.   
