@@ -49,19 +49,23 @@ The Author does not transfer any rights in the Work to the Publisher except as s
 
 ##PAYMENTS; ROYALTIES
 
+###NOTE: The sections "Flat Fee", "Per-Word Payment", and "Royalty Payments" are mutually exclusive.
+
 ###Flat Fee
 
-Payment will be a flat one-time payment of $**NUMBER**.   
+Payment will be a flat one-time payment of $**NUMBER**, which will be paid within 60 days of the receipt by the Publisher of this agreement executed by the Author.  If payment is not received as required by this paragraph, all rights granted hereunder shall immediately revert to the Author.  Should the Publisher fail to pay Author as specified here, Publisher will pay 50% of $**NUMBER** as a kill fee for the Work on or before 120 days of the reciept by the Publisher of this agreement executed by the Author. 
 
 ###Per-Word Payment
 
-Payment will be a flat one-time payment of $0.0**NUMBER** per word for previously unpublished stories, and $0.0**NUMBER** for previously published stories.  
+Payment will be a flat one-time payment of $0.0**NUMBER** per word for previously unpublished stories, and $0.0**NUMBER** for previously published stories, which will be paid within 60 days of the receipt by the Publisher of this agreement executed by the Author.  If payment is not received as required by this paragraph, all rights granted hereunder shall immediately revert to the Author.  Should the Publisher fail to pay Author as specified here, Publisher will pay 50% of $**NUMBER** as a kill fee for the Work on or before 120 days of the reciept by the Publisher of this agreement executed by the Author. 
 
 *optional* This flat rate payment applies to the first **NUMBER** words, after which a rate of $0.0**NUMBER** per word applies.
 
 ###Royalty Payments
 
 Payment will be a pro-rata share of **NUMBER**% of net proceeds based upon word count. Net proceeds are defined as those profits remaining after payment of editors, publishers, bookkeepers, artists, eBook converters, and other professionals employed to bring the book to publication. Proceeds may come from sales (wholesale, retail, consignment, discount, etc.) or other forms of income.  
+
+Publisher shall pay royalty earnings under the terms of this Agreement within 30 days after the end of each calendar quarter, commencing after the first publication of the Work by the Publisher, accompanied, by an accounting for such payments for the applicable quarterly period.
 
 There are **NUMBER** total shares, based on a total word count of **NUMBER**. The author's shares, based on a word count of **NUMBER** for the Work, are **NUMBER**, or **NUMBER**% of the net proceeds.  
 
@@ -85,9 +89,7 @@ The Author represents and warrants that he/she/they is/are the sole author(s) of
 
 Authors and editors are freelance contractors and not employees of *Alliteration Ink* or its principals.  
 
-##AUDITS & PAYMENTS
-
-Publisher shall pay royalty earnings under the terms of this Agreement within 30 days after the end of each calendar quarter, commencing after the first publication of the Work by the Publisher, accompanied, by an accounting for such payments for the applicable quarterly period.   
+##AUDITS
 
 Upon written request from the Author, but no more than once a year, the Publisher shall provide the following information: the number of copies of each edition of the Work published by the Publisher; the cumulative number of copies sold; copies of any licenses made by the Publisher; and any other information the Author may reasonably request on the basis that it is required in order to ascertain the accuracy of accounting rendered. It is understood that the Publisher may provide such information freely at a more frequent interval.  
 

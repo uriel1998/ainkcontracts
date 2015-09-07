@@ -47,7 +47,7 @@ The Author does not transfer any rights in the Work to the Publisher except as s
 
 ##PAYMENTS; ROYALTIES
 
-Payment will be a share of **60**% of net proceeds. Net proceeds are defined as those profits remaining after payment other professionals employed to bring the book to publication and distribution. Proceeds may come from sales (wholesale, retail, consignment, discount, etc.) or other forms of income.  
+Payment will be a share of **60**% of net proceeds. Net proceeds are defined as those profits remaining after payment other professionals employed to bring the book to publication and distribution. Proceeds may come from sales (wholesale, retail, consignment, discount, etc.) or other forms of income. 
 
 ##AUTHOR COPIES
 
