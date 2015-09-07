@@ -20,20 +20,6 @@ regarding the terms and conditions of the engagement between the Contractor and
 
 Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publisher").  
 
-#SIGNATURES
-Signed:  
- 
-###The Publisher  
-
-#  
-#
-###The Contractor
-
-Date
-
-
-\pagebreak
-
 #Engagement
 
 The Contractor agrees to perfom such consulting, advisory, and related servers to and for the Publisher (the "Services") as requested for time to time by the Publisher, including, but not limited to, the services specified on Exhibit A, or any subsequent Exhibits, to this Agreement (each a "Statement of Work"), in accordance with the terms and conditions set forth therein and in this Agreement.  
@@ -109,6 +95,17 @@ Contractor further warrants that the Work Product will fully conform to the spec
 #Choice of Law.  
 
 The validity, interpretation, construction and performance of this Agreement shall be governed by the laws of the State of Ohio, without giving effect to the principles of conflict of laws.  If one or more provisions of this Agreement are held to be unenforceable under applicable law, the parties agree to renegotiate such provision in good faith.  In the event that the parties cannot reach a mutually agreeable and enforceable replacement for such provision, then (i) such provision shall be excluded from this Agreement, (ii) the balance of the Agreement shall be interpreted as if such provision were so excluded and (iii) the balance of the Agreement shall be enforceable in accordance with its terms.
+
+#SIGNATURES
+Signed:  
+ 
+###The Publisher  
+
+#  
+#
+###The Contractor
+
+Date
 
 \pagebreak
 
