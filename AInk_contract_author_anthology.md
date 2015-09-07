@@ -85,7 +85,9 @@ If the Publisher fails to initially publish the Work within the time provided, a
 
 ##WARRANTS OF DISCLAIMERS / INDEMNIFICATIONS
 
-The Author represents and warrants that he/she/they is/are the sole author(s) of the Work, that the Work is original and unpublished, and that no one has reserved the rights granted in this agreement. The author also represents, to the best of his/her/their knowledge, that the Work does not contain any libelous material. Author agrees to indemnify the Publisher against any and all claims, demands, liabilities or damages (including reasonable attorney's fees) sustained or suffered by the Publisher's editors and/or publishers by reason of any violation of proprietary right or copyright in and to the Work or because of any libelous or unlawful matter contained in the Work.   
+The Author warrants that, as of the date of executing this agreement, they are the sole author of the Work; that they are the owner of all the rights granted to the Publisher hereunder and have full power to enter into this agreement and to make the grants herein contained; that the Work is original and any prior publication of the Work in whole or in part has been fully disclosed to the Publisher and that to the best of the Author’s knowledge the Work does not infringe upon any copyright or upon any other proprietary or personal right of any person, firm or corporation.
+
+The Author will indemnify the Publisher against any loss, injury, or damage finally sustained (including any legal costs or expenses and any compensation costs and disbursements paid by the Publisher) occasioned to the Publisher in connection with or in consequence of an intentional breach of one or more the foregoing  warranties, for which the Publisher has no coverage under its insurance policies. Legal representation and the decision to settle will be made in consultation between the Author and Publisher, and neither may proceed without the approval of the other, not to be unreasonably withheld.
 
 Authors and editors are freelance contractors and not employees of *Alliteration Ink* or its principals.  
 
