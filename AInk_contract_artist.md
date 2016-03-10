@@ -20,6 +20,7 @@ The Artist grants nonexclusive worldwide print and digital rights to the Artwork
 #RIGHTS RETAINED
 
 The Publisher will make no major alterations to the Artwork save for cropping, small aspect ratio changes, and alterations needed to increase legibility of text required to promote the Work.  
+
 All rights to the Work not expressly granted to the Publisher in this Agreement are reserved by The Artist. In exercising such rights, The Artist shall reserve for the Publisher's benefit the rights granted to the Publisher in this Agreement.   
 
 The Artist will be credited on the table of contents page and at the beginning of the Work as **author’s byline**
@@ -31,6 +32,7 @@ In compensation for this grant of rights, the Publisher hereby agrees to pay the
 #PUBLISH-BY OR REVERT
 
 The Publisher agrees to exercise this Agreement within 6 months of its acceptance. If the Publisher fails to do so, this Agreement shall terminate, and all rights granted herein shall revert to the Artist.   
+
 Artists are freelance contractors and not employees of *Alliteration Ink* or its principals.  
 
 ##LEGALITIES
@@ -68,6 +70,6 @@ Signed:
 
 #  
 #
-###The Author
+###The Artist
 
 Date
