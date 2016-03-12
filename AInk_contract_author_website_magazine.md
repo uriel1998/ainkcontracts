@@ -2,6 +2,8 @@
 
 ![](aink_logo.png "Alliteration Ink")  \  
 
+#SIGNATURE PAGE
+
 ##PARTIES AND DEFINITIONS
 
 This AGREEMENT is made as of the Effective Date above by and between:   
@@ -9,14 +11,14 @@ Legal Name:                                 ("the Author")
 Address:   
 SSN/EIN:  
 and   
-Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publisher") solely with reference to the Work(s) tentatively entitled **TITLE** ("the Work") to appear in the periodical/website **PERIODICAL** ("the Publication") with a word count of **WORDS**.   
+Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publisher") solely with reference to the Work(s) tentatively entitled **TITLE** ("the Work") to appear in the periodical/website **PERIODICAL** ("the Publication") with a word count of **WORDS** or line count of **LINES**.   
 
 #TERMS OF AGREEMENT
 ##GRANT OF RIGHTS
 
-The Author grants first serial exclusive worldwide rights in the English language in all readable print formats - including electronic rights - for inclusion in the Publication for one year post first publication of the Publication.  Exceptions to exclusivity will be made on a per-case basis for single-author collections including the Work, or if the Work is selected for a "best of the year" Publication, or for a podcast market managed by Escape Artists Inc, provided the Author gives the Publisher prior written notice.  
+The Author grants first serial exclusive worldwide rights in the English language in all readable print formats - including electronic rights - for inclusion in the Work for one year post first publication in the Publication and annual collections of the Publication.  Exceptions to exclusivity will be made on a per-case basis for single-author collections including the Work, or if the Work is selected for a "best of the year" Publication, or for a podcast market managed by Escape Artists Inc, provided the Author gives the Publisher prior written notice.  
 
-The Author grants to the Publisher the worldwide non-exclusive rights in the English language in all readable print formats - including electronic rights - as part of the Publication for five years post first publication of the Publication.  After the initial five year term, this grant of rights shall automatically renew in one year terms until cancelled by either the Author or Publisher. 
+The Author grants to the Publisher the worldwide non-exclusive rights in the English language in all readable print formats - including electronic rights - as part of the Publication or annual collection of the Publication for five years post first publication of the Work.  After the initial five year term, this grant of rights shall automatically renew in one year terms until cancelled by either the Author or Publisher. 
 
 The Author agrees that at such time as the Work is included in any book, whether or not it be entirely composed of the Author's own work, *Alliteration Ink* will be given credit as a publisher of the Work and the Work will be cited with its full title(s) as it appears in **Publication**.   
 
@@ -31,39 +33,24 @@ The Publisher shall not make the Work available to any distributor, catalogue, s
 Unless the Author specifies otherwise, Publisher will take care to ensure to the best of its ability that the Work is not archived by the Internet Archive or similar archiving web site and is not displayed in its entirety by any other web site, including Google, Amazon.com, or the like.
 
 ##RIGHTS RETAINED
+
 The Publisher will make no major alterations to the Work's text or title without the Author's written approval. The Publisher reserves the right to make minor copy-editing changes.   
 
 All rights to the Work not expressly granted to the Publisher in this Agreement are reserved by the Author. In exercising such rights, the Author shall reserve for the Publisher's benefit the rights granted to the Publisher in this Agreement.  
 
 The Author does not transfer any rights in the Work to the Publisher except as specifically set forth in this Agreement. This Agreement is not a transfer of the copyright to the Work.  This Agreement does not permit the Publisher to publish the Work in any revisions of the Magazine in any medium unless explicitly granted by This Agreement.
 
-##PAYMENTS; ROYALTIES
-
-###NOTE: The sections "Flat Fee", "Per-Word Payment", and "Royalty Payments" are mutually exclusive.
-
-###Flat Fee
-
-Payment will be a flat one-time payment of $**NUMBER**, which will be paid within 60 days of the receipt by the Publisher of this agreement executed by the Author.  If payment is not received as required by this paragraph, all rights granted hereunder shall immediately revert to the Author.  Should the Publisher fail to pay Author as specified here, Publisher will pay 50% of $**NUMBER** as a kill fee for the Work on or before 120 days of the reciept by the Publisher of this agreement executed by the Author. 
+##PAYMENTS
 
 ###Per-Word Payment
 
-Payment will be a flat one-time payment of $0.0**NUMBER** per word for previously unpublished stories, and $0.0**NUMBER** for previously published stories, which will be paid within 60 days of the receipt by the Publisher of this agreement executed by the Author.  If payment is not received as required by this paragraph, all rights granted hereunder shall immediately revert to the Author.  Should the Publisher fail to pay Author as specified here, Publisher will pay 50% of $**NUMBER** as a kill fee for the Work on or before 120 days of the reciept by the Publisher of this agreement executed by the Author. 
-
-*optional* This flat rate payment applies to the first **NUMBER** words, after which a rate of $0.0**NUMBER** per word applies.
-
-###Royalty Payments
-
-Payment will be a pro-rata share of **NUMBER**% of net proceeds based upon word count. Net proceeds are defined as those profits remaining after payment of editors, publishers, bookkeepers, artists, eBook converters, and other professionals employed to bring the book to publication. Proceeds may come from sales (wholesale, retail, consignment, discount, etc.) or other forms of income.  
-
-Publisher shall pay royalty earnings under the terms of this Agreement within 30 days after the end of each calendar quarter, commencing after the first publication of the Work by the Publisher, accompanied, by an accounting for such payments for the applicable quarterly period.
+Payment will be a flat one-time payment of $0.0**6** per word for previously unpublished stories, and $0.0**3** for previously published stories, which will be paid within 60 days of the receipt by the Publisher of this agreement executed by the Author.  For poetry, payment will be a flat one-time payment of $0.**25** per line for previously unpublished poems and $0.**13** per line for previously published poems. If payment is not received as required by this paragraph, all rights granted hereunder shall immediately revert to the Author.  Should the Publisher fail to pay Author as specified here, Publisher will pay 50% of $**NUMBER** as a kill fee for the Work on or before 120 days of the reciept by the Publisher of this agreement executed by the Author. 
 
 ##AUTHOR COPIES
 
 Authors will be able to order copies of The Publication *or any other work from Alliteration Ink* at cost to the publisher.  These copies may be sold by the authors;  these do not count toward royalty calculations.  
 
 Authors will have a free electronic copy in ePub, Kindle, and PDF formats made available to them.  These may not be redistributed.    
-
-*optional* Each author will have one print author copy sent to their address of choice for free.  
 
 ##PUBLISH-BY OR REVERT
 
