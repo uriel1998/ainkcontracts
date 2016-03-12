@@ -44,7 +44,7 @@ The Author does not transfer any rights in the Work to the Publisher except as s
 
 ###Per-Word Payment
 
-Payment will be a flat one-time payment of $0.0**6** per word for previously unpublished stories, and $0.0**3** for previously published stories, which will be paid within 60 days of the receipt by the Publisher of this agreement executed by the Author.  For poetry, payment will be a flat one-time payment of $0.**25** per line for previously unpublished poems and $0.**13** per line for previously published poems. If payment is not received as required by this paragraph, all rights granted hereunder shall immediately revert to the Author.  Should the Publisher fail to pay Author as specified here, Publisher will pay 50% of $**NUMBER** as a kill fee for the Work on or before 120 days of the reciept by the Publisher of this agreement executed by the Author. 
+Payment will be a flat one-time payment of $0.06 per word for previously unpublished stories, and $0.03 for previously published stories, which will be paid within 60 days of the receipt by the Publisher of this agreement executed by the Author.  For poetry, payment will be a flat one-time payment of $0.25 per line for previously unpublished poems and $0.13 per line for previously published poems. If payment is not received as required by this paragraph, all rights granted hereunder shall immediately revert to the Author.  Should the Publisher fail to pay Author as specified here, Publisher will pay 50% of the price specified above as a kill fee for the Work on or before 120 days of the reciept by the Publisher of this agreement executed by the Author. 
 
 ##AUTHOR COPIES
 
