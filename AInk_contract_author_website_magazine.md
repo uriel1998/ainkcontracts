@@ -86,7 +86,7 @@ Arising under and terminating with the grant of rights to the Work in this Agree
 
 The Publisher and Author shall use their best efforts to promote and advertise the Work in order to sell the Work to as many readers as possible and shall inform each other on matters relating to promotion and advertising.   
 
-The Author agrees to be available for publicity and promotion as reasonably requested by the Publisher and subject to the Author's employment and personal obligations.
+The Author agrees to be available for publicity and promotion as reasonably requested by the Publisher and subject to the Author's employment and personal obligations. The Author reserves the right to decline any requests for appearances. 
 
 The Author is hereby permitted to use reasonable judgement in using the Work for marketing purposes, including but not limited to, posting a sample chapter on the Author's website using excerpts of no more than ten percent (10%) of the manuscript, and the likeness of the book.  
 
