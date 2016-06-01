@@ -18,7 +18,7 @@ The Anthologist grants nonexclusive worldwide print and digital rights in the En
 
 The Anthologist grants to the Publisher grants to the Publisher the worldwide non-exclusive rights in the English language in all readable print formats - including electronic rights - as part of the Anthology for five years post first publication of the Anthology.  After the initial five year term, this grant of rights shall automatically renew in one year terms until cancelled by either the Anthologist or Publisher. 
 
-The Anthologist shall ensure that each Author agrees that at such time as their portion of the Work is included in any book, whether or not it be entirely composed of the Author's own work, *Alliteration Ink* will be given credit as a publisher of the Work and the Work will be cited with its full title(s) as it appears in **ANTHOLOGY**.  
+The Anthologist shall ensure that each Author agrees that at such time as their portion of the Work is included in any book, whether or not it be entirely composed of the Author's own work, the author will instruct that *Alliteration Ink* will be given credit as a publisher of the Work and the Work will be cited with its full title(s) as it appears in **ANTHOLOGY**.  
 
 The Anthologist will be credited on the table of contents page and at the beginning of the Work as **Anthologist’s byline**
 
@@ -93,7 +93,7 @@ The Anthologist agrees to be available for publicity and promotion as reasonably
 
 The Anthologist is hereby permitted to use reasonable judgement in using the Work for marketing purposes, including but not limited to, posting one (1) sample chapter on the Anthologist's website, using excerpts of no more than ten percent (10%) of the manuscript, and the likeness of the book.   
 
-Electronic versions of the Work may be made available at the discretion of the Publisher or Anthologist for reviewers and other marketing and promotional purposes.            
+Separate from the author's personal electronic copy, electronic versions of the Work may be made available at the discretion of the Publisher or Anthologist for reviewers and other marketing and promotional purposes.            
 
 The Promotion and marketing efforts of the Anthologist and shall be coordinated with the Publisher to prevent duplication of effort.   
 

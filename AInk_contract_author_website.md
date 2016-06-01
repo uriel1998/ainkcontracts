@@ -33,7 +33,7 @@ The Author grants first exclusive worldwide rights in the English language in al
 
 The Author grants to the Publisher the worldwide non-exclusive rights in the English language in all readable print formats - including electronic rights - as part of the Publication for five years post first publication of the Publication.  After the initial five year term, this grant of rights shall automatically renew in one year terms until cancelled by either the Author or Publisher. 
 
-The Author agrees that at such time as the Work is included in any book, whether or not it be entirely composed of the Author's own work, *Alliteration Ink* will be given credit as a publisher of the Work and the Work will be cited with its full title(s) as it appears in **Publication**.   
+The Author agrees that at such time as the Work is included in any book, whether or not it be entirely composed of the Author's own work, the author will instruct that *Alliteration Ink* will be given credit as a publisher of the Work and the Work will be cited with its full title(s) as it appears in **Publication**.   
 
 ##RIGHTS RETAINED
 The Publisher will make no major alterations to the Work's text or title without the Author's written approval. The Publisher reserves the right to make minor copy-editing changes.   
@@ -100,7 +100,7 @@ The Author agrees to be available for publicity and promotion as reasonably requ
 
 The Author is hereby permitted to use reasonable judgement in using the Work for marketing purposes, including but not limited to, posting a sample chapter on the Author's website using excerpts of no more than ten percent (10%) of the manuscript, and the likeness of the book.  
 
-Electronic versions of the Work may be made available at the discretion of the Publisher or Author for reviewers and other marketing and promotional purposes.            
+Separate from the author's personal electronic copy, electronic versions of the Work may be made available at the discretion of the Publisher or Author for reviewers and other marketing and promotional purposes.            
 
 The Promotion and marketing efforts of the Author and shall be coordinated with the Publisher to prevent duplication of effort.   
 
