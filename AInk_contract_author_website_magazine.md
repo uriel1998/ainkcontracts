@@ -7,11 +7,11 @@
 ##PARTIES AND DEFINITIONS
 
 This AGREEMENT is made as of the Effective Date above by and between:   
-Legal Name:                                 ("the Author")   
+Legal Name: Andrea Corbin	("the Author")   
 Address:   
 SSN/EIN:  
 and   
-Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publisher") solely with reference to the Work(s) tentatively entitled **TITLE** ("the Work") to appear in the periodical/website **PERIODICAL** ("the Publication") with a word count of **WORDS** or line count of **LINES**.   
+Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publisher") solely with reference to the Work(s) tentatively entitled ** ** ("the Work") to appear in the periodical/website **recompose/recompose.press** ("the Publication") with a word count of ** **.   
 
 #TERMS OF AGREEMENT
 ##GRANT OF RIGHTS
@@ -20,11 +20,11 @@ The Author grants first serial exclusive worldwide rights in the English languag
 
 The Author grants to the Publisher the worldwide non-exclusive rights in the English language in all readable print formats - including electronic rights - as part of the Publication or annual collection of the Publication for five years post first publication of the Work.  After the initial five year term, this grant of rights shall automatically renew in one year terms until cancelled by either the Author or Publisher. 
 
-The Author agrees that at such time as the Work is included in any book, whether or not it be entirely composed of the Author's own work, the author will instruct that *Alliteration Ink* will be given credit as a publisher of the Work and the Work will be cited with its full title(s) as it appears in **Publication**.   
+The Author agrees that at such time as the Work is included in any book, whether or not it be entirely composed of the Author's own work, the author will instruct that *Alliteration Ink* will be given credit as a publisher of the Work and the Work will be cited with its full title(s) as it appears in **recompose/recompose.press**.   
 
 The Publisher agrees to list a proper copyright notice for the Work in the name of the Author at the end of the Web-published story and, if published in print or eBook format, on an appropriate copyright page.
 
-The Author will be credited on the table of contents page and at the beginning of the Work as **author’s byline**
+The Author will be credited on the table of contents page and at the beginning of the Work as ** **
 
 The Publisher shall not make the Work available to any distributor, catalogue, service, or computer program which alters the text of the work or the display of the work, beyond typographic or formatting changes that do not affect the meaning of the work, or facilitate such changes -- including but not limited to removing or changing profanity -- without written permission of the Author.  Should the Work be so listed without the permission of the Author, the Publisher shall ensure its removal.
 
@@ -118,12 +118,14 @@ If any term or condition of this Agreement is found by a court of competent juri
 
 The parties acknowledge that each party has read and understood this contract before execution.
 
-#SIGNATURES
+#SIGNATURES  
 
 In witness whereof the parties have executed this contract in duplication originals on this
 
 Signed:  
- 
+  
+![](mysig.png "Steven Saus")  \ 
+   
 ###The Publisher  
 
 #  
