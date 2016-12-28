@@ -7,7 +7,7 @@
 ##PARTIES AND DEFINITIONS
 
 This AGREEMENT is made as of the Effective Date above by and between:   
-Legal Name: Andrea Corbin	("the Author")   
+Legal Name: 	("the Author")   
 Address:   
 SSN/EIN:  
 and   

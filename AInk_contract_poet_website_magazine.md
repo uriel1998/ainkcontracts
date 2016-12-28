@@ -24,7 +24,7 @@ The Poet agrees that at such time as the Work is included in any book, whether o
 
 The Publisher agrees to list a proper copyright notice for the Work in the name of the Poet at the end of the Web-published poem and, if published in print or eBook format, on an appropriate copyright page.
 
-The Poet will be credited on the table of contents page and at the beginning of the Work as **Kurt Newton**
+The Poet will be credited on the table of contents page and at the beginning of the Work as ** **
 
 The Publisher shall not make the Work available to any distributor, catalogue, service, or computer program which alters the text of the work or the display of the work, beyond typographic or formatting changes that do not affect the meaning of the work, or facilitate such changes -- including but not limited to removing or changing profanity -- without written permission of the Poet.  Should the Work be so listed without the permission of the Poet, the Publisher shall ensure its removal.
 
