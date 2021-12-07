@@ -1,8 +1,8 @@
-#Letter of Agreement - Book  
+# Letter of Agreement - Book  
 
-![](aink_logo.png "Alliteration Ink")  \  
+![](aink_logo.png "Alliteration Ink")  
 
-##PARTIES AND DEFINITIONS
+## PARTIES AND DEFINITIONS  
 
 This AGREEMENT is made as of the Effective Date above by and between:   
 Legal Name:                                 ("the Author")   
@@ -11,8 +11,8 @@ SSN/EIN:
 and   
 Steven Saus, as the principal of *Alliteration Ink*, of Dayton, Ohio ("the Publisher") solely with reference to the Work(s) tentatively entitled **TITLE** ("the Work"). 
 
-#TERMS OF AGREEMENT
-##GRANT OF RIGHTS
+# TERMS OF AGREEMENT
+## GRANT OF RIGHTS
 
 The Author grants first exclusive worldwide rights in the English language in all readable print formats - including electronic rights - for an initial period of five years post first publication of the Work.  Exceptions to exclusivity will be made on a per-case basis for portions of the work already published elsewhere, or if a portion of the work is selected for a "best of the year" anthology, provided the Author gives the Publisher prior written notice.  Save for the exceptions noted above, the Author shall not grant print rights to the Work elsewhere while this contract is in force.  
 
@@ -26,18 +26,19 @@ The Author will be credited on the table of contents page and at the beginning o
 
 The Publisher shall not make the Work available to any distributor, catalogue, service, or computer program which alters the text of the work or the display of the work, beyond typographic or formatting changes that do not affect the meaning of the work, or facilitate such changes -- including but not limited to removing or changing profanity -- without written permission of the Author.  Should the Work be so listed without the permission of the Author, the Publisher shall ensure its removal.
 
-##RIGHTS RETAINED
+## RIGHTS RETAINED
+
 The Publisher will make no major alterations to the Work's text or title without the Author's written approval. The Publisher reserves the right to make minor copy-editing changes.   
 
 All rights to the Work not expressly granted to the Publisher in this Agreement are reserved by the Author. In exercising such rights, the Author shall reserve for the Publisher's benefit the rights granted to the Publisher in this Agreement.   
 
 The Author does not transfer any rights in the Work to the Publisher except as specifically set forth in this Agreement. This Agreement is not a transfer of the copyright to the Work.  This Agreement does not permit the Publisher to publish the Work in any medium unless explicitly granted by This Agreement.
 
-##PAYMENTS; ROYALTIES
+## PAYMENTS; ROYALTIES
 
 Payment will be a share of **60**% of net proceeds. Net proceeds are defined as those profits remaining after payment other professionals employed to bring the book to publication and distribution. Proceeds may come from sales (wholesale, retail, consignment, discount, etc.) or other forms of income. 
 
-##AUTHOR COPIES
+## AUTHOR COPIES
 
 The Author will be able to order print copies of The Work *or any other work from Alliteration Ink* at cost to the publisher.  These copies may be sold by the authors;  these do not count toward royalty calculations.
 
@@ -45,13 +46,13 @@ The Author will have a free electronic copy in ePub, Kindle, and PDF formats mad
 
 The author will have one print author copy sent to their address of choice for free. 
 
-##PUBLISH-BY OR REVERT  
+## PUBLISH-BY OR REVERT  
 
 The publisher agrees to publish any work that has been accepted within 12 months of the publisher's acceptance under such title and in such style and manner (including prices, discounts, date of publication, punctuation, capitalization, spelling, grammar, typography, layout, design, graphics, artwork, imaging, advertising and other forms of promotion, and the number and distribution of free copies) as it shall deem appropriate in its sole and absolute discretion.  
 
 If the Publisher fails to initially publish the Work within the time provided, and fails to publish within an additional three months after its receipt of written notice demanding such publication from the Author, this Agreement shall terminate, all rights granted herein shall revert to the Author and the Author shall retain all advances paid hereunder as full compensation and Author's sole and exclusive remedy for such failure to publish.   
 
-##WARRANTS OF DISCLAIMERS / INDEMNIFICATIONS
+## WARRANTS OF DISCLAIMERS / INDEMNIFICATIONS
 
 The Author warrants that, as of the date of executing this agreement, they are the sole author of the Work; that they are the owner of all the rights granted to the Publisher hereunder and have full power to enter into this agreement and to make the grants herein contained; that the Work is original and any prior publication of the Work in whole or in part has been fully disclosed to the Publisher and that to the best of the Author’s knowledge the Work does not infringe upon any copyright or upon any other proprietary or personal right of any person, firm or corporation.
 
@@ -59,13 +60,13 @@ The Author will indemnify the Publisher against any loss, injury, or damage fina
 
 Authors and editors are freelance contractors and not employees of *Alliteration Ink* or its principals.  
 
-##AUDITS & PAYMENTS
+## AUDITS & PAYMENTS
 
 Publisher shall pay royalty earnings under the terms of this Agreement within 30 days after the end of each calendar quarter, commencing after the first publication of the Work by the Publisher, accompanied, by an accounting for such payments for the applicable quarterly period.   
 
 Upon written request from the Author, but no more than once a year, the Publisher shall provide the following information: the number of copies of each edition of the Work published by the Publisher; the cumulative number of copies sold; copies of any licenses made by the Publisher; and any other information the Author may reasonably request on the basis that it is required in order to ascertain the accuracy of accounting rendered. It is understood that the Publisher may provide such information freely at a more frequent interval.  
 
-##TERM; TERMINATION OF AGREEMENT; REVERSION
+## TERM; TERMINATION OF AGREEMENT; REVERSION
 
 The term of this Agreement shall continue for five years after the Effective Date ("Initial Term"), and thereafter shall automatically renew for consecutive one year terms (each a "Renewal Term" and together with the Initial Term, the "Term"), unless terminated by either party on written notice to the other at least 60 days prior to the end of the Initial or Renewal Term.
 
@@ -75,7 +76,7 @@ If the Work is not for sale in at least one edition (including any revised editi
 
 In the event that the Publisher shall be adjudicated bankrupt, a receiver or a trustee shall be appointed for all or substantially all of the Publisher's property, and the order appointing the receiver or trustee shall not have been vacated within sixty (60) days from its entry, or if the Publisher shall seek to take advantage of any so-called insolvency law, all rights hereby granted to the Publisher shall revert to the Author, and this Agreement shall terminate.   
 
-##PROMOTION
+## PROMOTION
 
 Arising under and terminating with the grant of rights to the Work in this Agreement, the Author grants Publisher the right to use the Author’s name, image, likeness, and biographical material for all advertising, promotion and other exploitation of the Work. Upon request, the Author shall provide the Publisher with a photograph of the Author and appropriate biographical material for such use. The Publisher shall use only the Author’s name, image, likeness and biographical material provided and approved by the Author.
 
@@ -89,31 +90,31 @@ Separate from the author's personal electronic copy, electronic versions of the 
 
 The Promotion and marketing efforts of the Author and shall be coordinated with the Publisher to prevent duplication of effort.   
 
-##LEGALITIES
+## LEGALITIES
 
 Regardless of its place of execution, this agreement shall be interpreted under the laws of the State of Ohio.
 
 The parties agree that any suit, action or proceeding, whether claim or counterclaim, brought or instituted by either party relating to the subject matter of this Agreement, shall be tried only by a court and not by a jury. The parties to this agreement expressly waive any right to a trial by jury in any such action or proceeding.
 
-###VENUE
+### VENUE
 
 The parties agree that any action to enforce this Agreement shall be brought in the appropriate state or federal court in the State of Ohio, and that such court shall have personal jurisdiction over each of the parties.
 
-###SUCCESSORS AND ASSIGNS
+### SUCCESSORS AND ASSIGNS
 
 Publisher may not assign or in any way transfer this contract or the rights granted by it to another person or entity without the written permission of AUTHOR.
 
-###AMENDMENT  
+### AMENDMENT  
 
 This Agreement constitutes the entire Agreement between the parties, and supersedes all prior writings or oral agreements.  This Agreement may be amended, only by a written agreement clearly setting forth the amendments and signed by both parties.
 
-###VOID PROVISION
+### VOID PROVISION
 
 If any term or condition of this Agreement is found by a court of competent jurisdiction to be illegal, unlawful or otherwise unenforceable, the parties agree that such term or condition shall be reformed as nearly as may be possible to carry forth the intentions of the parties and that such illegality, unlawfulness or unenforceability shall not act to void any other term or condition of this Agreement nor to void the Agreement as a whole.
 
 The parties acknowledge that each party has read and understood this contract before execution.
 
-#SIGNATURES
+# SIGNATURES
 
 In witness whereof the parties have executed this contract in duplication originals on this
 
@@ -121,8 +122,8 @@ Signed:
  
 ###The Publisher  
 
+#   
 #  
-#
-###The Author
+### The Author
 
 Date
